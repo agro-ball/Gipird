@@ -1,0 +1,6 @@
+{
+  "appId": "com.local.wtquests",
+  "appName": "WT Квесты",
+  "webDir": "www",
+  "android": { "backgroundColor": "#0e1116" }
+}
